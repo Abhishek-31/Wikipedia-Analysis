@@ -14,3 +14,4 @@ Now you are good to go. Data could be manually parsed through xml parser or buil
 LDA is used so as to do topic modelling. Randomly selected topics could be used but parameters have to be tuned accordingly.
 
 
+Sample code is found at Lda on Wikipedia.
