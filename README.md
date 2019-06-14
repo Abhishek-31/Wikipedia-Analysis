@@ -15,3 +15,10 @@ LDA is used so as to do topic modelling. Randomly selected topics could be used 
 
 
 Sample code is found at Lda on Wikipedia.
+
+
+
+### FAQ Builder
+
+I received the cities by downloading data dump from <http://download.geonames.org/export/dump/>
+Sparql queries were generated through <https://query.wikidata.org>
