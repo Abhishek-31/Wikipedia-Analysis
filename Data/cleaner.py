@@ -5,7 +5,7 @@ Created on Mon Jul  8 11:08:53 2019
 
 @author: abhishek
 """
-with open("/home/abhishek/Documents/Wikipedia-Analysis/text about it.txt","r") as f:
+with open("/home/abhishek/Documents/Wikipedia-Analysis/Data/Spherical basis.txt","r") as f:
     a=f.read()
 #print(a)
 c=[]
@@ -26,7 +26,7 @@ for index,val in enumerate(b):
 for _ in b:
     if(_):
         c.append(_)
-with open("new text.txt","w+") as l:
+with open("spherical.txt","w+") as l:
     for i,_ in enumerate(c):
         l.write(_)
         l.write("\n")

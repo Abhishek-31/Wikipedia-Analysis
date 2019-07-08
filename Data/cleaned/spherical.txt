@@ -1,0 +1,52 @@
+"Spherical tensor" redirects to here. For the concept related to operators see tensor operator.In pure and applied mathematics, particularly quantum mechanics and computer graphics and their applications, a spherical basis is the basis used to express spherical tensors.  The spherical basis closely relates to the description of angular momentum in quantum mechanics and spherical harmonic functions.
+While spherical polar coordinates are one orthogonal coordinate system for expressing vectors and tensors using polar and azimuthal angles and radial distance, the spherical basis are constructed from the standard basis and use complex numbers.
+== Spherical basis in three dimensions ==
+A vector A in 3D Euclidean space ℝ3 can be expressed in the familiar Cartesian coordinate system in the standard basis ex, ey, ez, and coordinates Ax, Ay, Az:
+or any other coordinate system with associated basis set of vectors. From this extend the scalars to allow multiplication by complex numbers, so that we are now working in
+rather than
+  .
+=== Basis definition ===
+In the spherical bases denoted e+, e−, e0, and associated coordinates with respect to this basis, denoted A+, A−, A0, the vector A is:
+where the spherical basis vectors can be defined in terms of the Cartesian basis using complex-valued coefficients in the xy plane:
+in which i denotes the imaginary unit, and one normal to the plane in the z direction:
+  The inverse relations are:
+=== Commutator definition ===
+While giving a basis in a 3-dimensional space is a valid definition for a spherical tensor, it only covers the case for when the rank
+is 1. For higher ranks, one may use either the commutator, or rotation definition of a spherical tensor. The commutator definition is given below, any operator
+that satisfies the following relations is a spherical tensor :
+  
+=== Rotation definition ===
+Analogously to how the spherical harmonics transform under a rotation, a general spherical tensor  transforms as follows,  when the states transform under the unitary Wigner D-matrix
+, where R is a (3×3 rotation) group element in SO(3). That is, these matrices represent the rotation group elements. With the help of its Lie algebra, one can show these two definitions are equivalent.
+  
+=== Coordinate vectors ===
+For the spherical basis, the coordinates are complex-valued numbers A+, A0, A−, and can be found by substitution of (3B) into (1), or directly calculated from the inner product ⟨, ⟩ (5):
+  with inverse relations:
+In general, for two vectors with complex coefficients in the same real-valued orthonormal basis ei, with the property ei·ej = δij, the inner product is:
+where · is the usual dot product and the complex conjugate * must be used to keep the magnitude (or "norm") of the vector positive definite.
+== Properties (three dimensions) ==
+=== Orthonormality ===
+The spherical basis is an orthonormal basis, since the inner product ⟨, ⟩ (5) of every pair vanishes meaning the basis vectors are all mutually orthogonal:
+and each basis vector is a unit vector:
+  hence the need for the normalizing factors of 1/√2.
+=== Change of basis matrix ===
+The defining relations (3A) can be summarized by a transformation matrix U:
+with inverse:
+  It can be seen that U is a unitary matrix, in other words its Hermitian conjugate U† (complex conjugate and matrix transpose) is also the inverse matrix  U−1.
+For the coordinates:
+and inverse:
+  
+=== Cross products ===
+Taking cross products of the spherical basis vectors, we find an obvious relation:
+where q is a placeholder for +, −, 0, and two less obvious relations:
+  
+=== Inner product in the spherical basis ===
+The inner product between two vectors A and B in the spherical basis follows from the above definition of the inner product:
+  
+== See also ==
+Wigner–Eckart theorem
+Wigner D matrix
+== References ==
+=== General ===
+S. S. M. Wong (2008). Introductory Nuclear Physics (2nd ed.). John Wiley & Sons. ISBN 978-35-276-179-13.
+== External links ==
