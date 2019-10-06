@@ -1,0 +1,1303 @@
+PROGRAMMING FOR EVERYBODY
+What all you said all of those really amazing which fascinates me that by using programming 
+so much but I know little of it so. Do u think anybody can learn it? So that’s a good question, 
+this is the frequently asked questions that can I learn programming?  I would say 
+programming is the actually quiet common seneschal. But there is one problem that a student 
+faces majorly that is a whole lot of discouragement so it’s like if you come and tell me you 
+want to learn French and I start of giving you literature in French, that you obviously will be 
+discouraged. First point, second point is when you have someone around you who is doing 
+really well with programming that’s the second form of discouragement, That’s the huge form
+of discouragement that you should be there is a popular tip for chess players when you want 
+to learn chess you should not play with a champion, you should play with someone who is 
+like you may be slightly better but not a lot better right? So second discouraging factor for 
+someone to learn programming is that they end a felling extremely discourage by looking at 
+someone who does really well. First one is whole lot of details we start with some 
+complicated stage of programming we don’t start from scratch, secondly people around you 
+sort of discourage you and put you off. A one word answer to your question is YES in fact 
+any one can program and it’s fairly easy process. So can you ball juggle? If I give you three 
+balls can u juggle?  It’s quite difficult.  It’s quite difficult. Right? But you see in about a week
+or two weeks time anyone can learn ball juggling it’s all a matter of practice so programming 
+is also that it is in fact much much easier then learning a new language and its very very 
+common seneschal so in this course what we will be doing is we will be ensuring that we start
+from something that is not programming but it is a lot of fun to do and then slowly introduce 
+you all to python programming right? Again not through whole lot of details and the do’s and 
+don’ts for programmers but we what we will be doing is will be making you solve a problem 
+and then learn a concept in programming. I think this is the fun way to learn programming 
+than learning the old school way of reading a entire book on a programming language and 
+trying to do everything parallel and not knowing why is this even used and how to go about 
+doing this and what not exercise problems that you don’t understand things like that, so the 
+whole of this course will mostly be focused on, you pick a question, you try to answer it and 
+while you are answering it you will be learning a concept.
+Why Programming?
+One of these questions that many people have is why do we even programmed? Right?  What
+is the need for it? U seems the digital world most of what you see on your cell phone on your 
+computers or be it on the internet webpage all of these are the in fact some programs. 
+Someone should have written a piece of code for all these things tats it if I can tell you in one 
+sentence what is programming? It’s about getting things done really really fast right? You can
+always ask me this question can we replace? Can we do without computers? Can we do 
+without any of these programming? Off course yes we can. The point is it makes us life really
+really really simple, it makes it really fast and nice for you to execute a piece of talk for 
+example If you where to go to your huh train reservation system right? And see when exactly 
+you had travelled from this location to this location. It’s very easy for you to put a search 
+query inside your reservation website and see where all you have travelled. Otherwise you 
+should maintain a big log of where you go what you have done and then you may have to 
+search through it manually. Let’s say for instance I am travelling from Delhi to bang lore ok, 
+what do I do? I go to the railway station ensure that the my name is there on the chart board 
+the train and my friend is checking whether the train has started on time or not so that he 
+knows it reaches on time and he can even trace where the exactly my train is. And has I am 
+having my journey I open YouTube and then I can watch a good video may be good movie, 
+right?  And then I can send a couple of emails to my friends and then I reach Bangalore after 
+reaching Bangalore, I open my cell phone and then try booking a taxi through the popular 
+application. Right? And then I reach back home and pay the taxi person the money that my 
+phone tells me to pay. You see the entire thing from boarding my train until reaching my 
+home I have been using applications all of them not even excluding one all of them  are bits 
+and pieces of programming. A whole lot of programming the whole of digital world is of 
+been made of these programming only and the atomic blocks of it how exactly do we  go 
+about getting programming done is what we will be initiating you all with. So you mean to 
+say every step of our life every day every minute some where we are using programs? Almost
+every where we are using it today I can say because you see, you got to a shop and you do 
+online transfer pay it though your favourite application to the shop keeper in fact every shop 
+keeper these days they have one application or the other through which you can transfer 
+money to them right? So we can hardly imagine a life today without digital way of handling 
+things let’s say we pay money or we getting Amazon getting your favourite product delivered
+through Amazon it all involves the digital world and by digital world that’s the system what 
+happens in this world is the whole lot of code, whole lot of programs where in you precisely 
+tell a computer what to do what not to do how to handle exceptions and things like that. 
+SCRATCH ANIMATION 1
+So let’s do one thing, you can in fact take some other object here not necessarily a cat. How 
+about taking an aeroplane and making it take off, take off exactly it will go for some time on 
+the ground and then take off, go for some time in air and then land let’s say, how would you 
+do this?  Make it move forward, ok! Chase the angle of the aeroplane gradually may be and 
+move it straight perfect. And then again change the angle, change the angle perfect right and 
+move it straight, straight! I also told you it should also land and then rotate it again, rotate 
+back and then land it down, land it down you must ensure that you don’t land like this, 
+gradually come like this and then go ahead ok? Shall we try to see if we can do it or not? 
+Yeah. Ok perfect. 
+So let us try to build the programme for aeroplane taking off and then landing so first of all 
+what we need do here is, we have cat as the sprite here and we need aeroplane! So how can 
+you do that? In scratch you have many different options of sprite, here you can go to new 
+sprite you can choose any sprite from the library, so I will just do that just click on it and see 
+how many sprites do you have? You can choose any one, any sprite that you want so here 
+since we need aeroplane, I will just click on it you just double click and you will get sprite 
+here on your scratch screen, now we have aeroplane and cat sprite here so we need only 
+aeroplane so I will just delete the cat sprite here just right click on the sprite and select option 
+delete. So here is the aeroplane and I want to reduce it size since it won’t fit into the screen of
+scratch so I just you can even increase the size of the sprite as well as decrease the size of the 
+sprite and now but I want to shrink it so I will just use shrink there are two options here as 
+you can see, one is grow and another is shrink so I will use shrink here just choose it and 
+click on the sprite and yes it is shrinking so here we have the sprite. Yeah! I think this is the 
+perfect size for the aeroplane that it can fit into our screen ok, so I think you know how the 
+aeroplane takes off and then land let us try to build the programme for this, scratch 
+programme for this. So first of all, what do we need to do here is? We have to move the 
+aeroplane on the run way yes! We have to move the aeroplane on the run way so I will just 
+click on the motion category and we have move options so first of all I just click here move 
+ten steps ok so maybe I want to move it twenty steps or fifteen steps say so let us try to do 
+that, it is just moved fifteen steps but since we need aeroplane, we need to show aeroplane 
+running on the run way I will use move with the delay options, how can you do that? So first 
+of all I will just say move five steps and then I will insert a delay and then move ten steps and
+insert delay and then move ten steps insert delay and this way you can see the aeroplane 
+moving on the run way, I will just show you what is the difference, here if I just enter move 
+fifteen steps here we have it will just move fifteen steps but if I enter move five steps and 
+then insert some delay and then I insert one second delay and after that I insert move ten steps
+how will it move? Let us see? Here move five steps, move ten steps here you can see the 
+aeroplane moving and it looks good to see the aeroplane moving this way on the run way 
+rather than just having fifteen steps in one go so for that you have to insert a delay, how can 
+you insert delay? With wait option and where if the wait option? Wait option will comes in 
+the control category, in control category you have wait one second ok in this way you can 
+make the aeroplane move on the run way, first of all, we have to move the aeroplane on the 
+run way and that is done, so what is next thing to do? Then we have to rotate the aeroplane, 
+yes by some degrees so here we have turn fifteen degrees so I will just use this option I will 
+just say turn fifteen degrees here since it has to rotate on the left side I will just use this option
+here you will have to move, you have to turn the aeroplane by fifteen degrees after that I will 
+again like to insert a delay so, I will just insert wait one second after that it should move some
+steps so I just write move ten steps yes so let us have a look how does, how does it look like 
+here in scratch? First one move five move ten then rotate and then move ten steps yes, it look 
+perfect! So let me try to run it again so that you get the clear idea of, how it is functioning 
+here, first of all move five then ten then rotate then again move ten, yes this looks perfect. 
+This is how aeroplane should take off, yes. So here we have the aeroplane taking off after that
+the plane was the plane is rotated by fifteen degrees? After that what we can do here is, we 
+can move it by some steps, you can move the aeroplane by say hundred steps for that what 
+you have to do here is? For that I will again like to insert a delay here so let us insert the 
+delay here and wait one second and then I will again go to the motion category and I have to 
+rotate, I have to move the plane by hundred steps, so instead of ten you have to write hundred
+here ok? Now we are done with rotating and moving the aeroplane in the air ok, once it has 
+reached the position let us try to run this piece of code. It rotates and then it moves ten steps 
+and then it moves hundred steps, so now our aeroplane is in air, now again what should we 
+do, we should rotate it by fifteen degrees, so again we have to rotate the aeroplane by fifteen 
+degrees for that I will again insert a delay here so that it looks kind of real and now I have to 
+rotate it, so last time we rotated it left hand side now we will rotate it to the right hand side. 
+So we will use this option, turn fifteen degrees after that what should we do? We should 
+move the aeroplane by some steps in the air after it has been rotated so just take move ten 
+steps, after that again insert delay, wait one second so I will just run this piece of code so that 
+you can get the clear idea of what is happening over here, yes. So let us try to run it, move 
+five steps move ten steps and rotate then move ten steps and then again hundred and then 
+rotate and then move ten steps, this is how aeroplane is working here. Now we have the 
+aeroplane in the air, it is moving in the air for that to make it look real what you have to do 
+here is, we have to move it by say twenty steps and then wait for some time then move 
+twenty steps and then wait for some time I will insert this code again and again so that it 
+looks real that the plane is moving in the air so let us do that. I will just write here move say 
+like no no no ah this is wrong, here I will just write move twenty steps then wait for one 
+second then move twenty steps again and wait for one second ok I will insert it again move 
+twenty steps and then wait for one second ok once more we have to insert it, move twenty 
+steps and then wait for one second ok so now our aeroplane is moving in the air ok? Let us 
+try to run this piece of code, so that you can get the clear idea of what is happening, move 
+five steps move ten steps then turn and move ten steps and move hundred turn move ten 
+twenty twenty twenty twenty so it has moved twenty steps four times, that means it has 
+moved eighty steps ok, now we have to in order to land the aeroplane we have to again rotate 
+it so, I will just use the option of rotate here, what we have to do here is we have to turn the 
+aeroplane by fifteen degrees again so we have to turn the aeroplane again  by fifteen degrees 
+so I will just use it, turn by fifteen degrees and then move ten steps also with that after that 
+you should wait for one second, wait for one second say and then what we have to do here is 
+we have to move the aeroplane down in the downwards direction, so you have to move the 
+aeroplane down, so I will just move the aeroplane by some, by some steps here so I will just 
+write move say fifty steps here, after it has moved fifty steps here then you have to again 
+rotate the aeroplane, after it has moved fifty steps you have to again rotate the aeroplane so 
+what do we need to do with that? For that we have to use the turn option so then as an always 
+inset some delay and then use the turn option you have to turn it by fifteen degrees and then 
+you have to move ten steps again and then wait for some time after it has rotated now it is on 
+the run way again because it is landing, since it is landing then you have to move it by some 
+steps, it is your choice how much steps that you want to move here, I will just use wait I just 
+use move ten steps here and then wait for one second, wait for one second then again I will 
+move it by ten steps so let us try to run this again and see how this aeroplane is taking off and
+landing so it goes up in the air then it moves there for some time and it rotate and comes 
+back, see we did a mistake here while taking off we moved it by hundred steps but while 
+landing it is only moving by fifty steps, so what we will do, I will again insert move here and 
+this time I will move it by fifty steps so that it looks real and again you have to insert a delay 
+so that it doesn’t appear has crashing on the ground so again will run it, double click and run 
+yeah it is going ahead in the air then straight for some time about eighty steps then it has 
+coming down and then again come down and now it is on runway ok, so this is how you can  
+make the aeroplane take off and land in scratch through a scratch programme but you can see 
+that there are many repetitive instructions here, we are using for example here we are rotating
+it by fifteen degrees then moving it by ten steps and again we are using this code again and 
+again so what we can do here is we can actually group them in a repeat loop. I hope you are 
+already familiar with the loop concept here so what will we do, we will group the repetitive 
+instructions here so that it becomes easy for us to write the programme and the programme 
+becomes short so what we will do here is for the repetitive instructions we just we will just 
+group them in one loop, I will just use the repeat loop here for example here we have move 
+five steps then wait then move then turn then wait move then move by hundred steps and wait
+so we can’t insert a repetitive loop here because here we are moving by ten steps and in the 
+next step we are moving by hundred steps then turn then move, move, move wait move wait 
+here we can insert a repeat loop here because we are moving twenty steps four times so we 
+can insert a repeat loop here and we can repeat it four times this set of instructions move 
+twenty steps and then wait for one second after that we have to move turn then move then 
+move move turn and then move and then we have to move again and again so ah I will just 
+insert a repetitive loop here, a repeat loop here four times in place of this instructions so what 
+will I do is, I will just copy this but we have to do just duplicate it and keep it here so I will 
+just insert a repeat loop here in place of move twenty  and wait one second ok? So what will I
+do here, I just take this loop and what we have to do, we have to repeat it four times yes and 
+you can now delete this and insert it here so let us now, see how this programme with 
+repetitive loop works. So let us see, it is moving then again in the air then straight one two 
+three four yes perfect then it is coming down and then landing yes!! So as you see this 
+programme is same as this programme but the length is somewhat shorter because we used a 
+repeat loop here, so let us now get back to sir and see what is happening in the other end.        
+Where To Start?
+I have heard people telling that computer has some languages? People understand only 
+certain set of rules and like also heard that something called C, C++. But I don’t really   know
+where to start because some say for this you know, you have to know this. And some say for 
+this u have to know something else so I don’t really know where to start programming? Yes 
+there is a huge confusion for a beginner. Where to start? What to do and things like that. You 
+see talk about programming language people talk to you about python, C, C++, what not 
+right? So let me tell you something, most of these things have one thing in common and that 
+is to understand what programming logic is. Right? There are some three to four most 
+important skills that one must develop. That should be more than enough. Once you develop 
+that you in fact can converse in its like the art of articulation, if you know how to talk well 
+after learning a language I am sure you can do well in that language. Ok? Learning many 
+languages is different from the art of articulation so the art of articulation analogously 
+translates to understanding what is called the programming logic. You will see more of it 
+during the run offer course let me tell you that it doesn’t really matter which programming 
+language you learn. What matters is to understand how to think like a computer scientist by 
+that I mean how to ensure that your brain can actually think how to solve piece of problem 
+using programming. For that I would strongly suggest that you people go by the course, the 
+course is going to assume nothing but we will be teaching python. Python is considered to be 
+a very easy and quick language to learn at the same time extremely powerful. Right! 
+Why Do We Have So Many Languages?
+I have one more question, why do you have so many languages? Why can’t you have just one
+universal language? Or is it necessary to have so many languages?  So this questions answer 
+is slightly tricky that even I don’t think even I know the right answer for this question, but if I
+ready to ask u the  same question why do you have so many languages in the world people 
+speak right?  You have look at our country like India we have so many languages and let 
+alone that dialects 100’s of them, right. So the reason is some people find so laze and comfort
+in getting a few tasks done using a particular type of programming language and it develops 
+with time. Then they realize, ok if this kind of programming language is used for, let’s say for
+scientific purposes only it is not helping us in building any business application and then they
+switch to a customize programming language and say, so this we will use for business 
+oriented applications, for example Pascal was a general purpose programming language, 
+Fulton, I am talking about 30-40 years ago ‘Fulton’ its stands for formula translator ok? That 
+was mainly used for scientific reasons and then came ‘COBOL’, ‘COBOL’ was used for 
+common business oriented language that’s what It stands for, it was used for business 
+oriented applications. And then they thought ok fine we need something really rob stand  nice
+and then they came out with C and then they realize in C there was lot of problem s when a 
+programmer was programming, it was not easy on his mind so they created this notion of 
+objects and that was the birth of object oriented programming.  Right, there is very good 
+difference between C and C++. C++ helps a person program better by keeping his mind free 
+from any sort of ambiguity and confusions when he is coding. And then came python because
+python was known to be sort of they kept in mind the physiology of program. C to C++ are 
+big leap then the python was like everyone should program, how do we go about doing that 
+and then since its open for lot of people contributed to it and today its stand really tall as a 
+fantastic programming language. So it is all evolution of mans thinking based on the need for 
+something, that’s the good question by the way. Yeah was slightly thinking as you said it was 
+evolved to us that what I can generalize from what you have told now, so do you think it will 
+further evolve will be further move ahead or.. that’s again a very interesting question again I 
+am not so sure whether I know the answer off course yes I personally believe that next 
+generation will one thing is for sure I have been observing the programming is getting easier 
+and easier with time. Firstly because of the available online resources, secondly because of 
+the inherent ease with which you can code with the kind of tools and techniques available 
+today. For example I am not sound little technical don’t mind there is something called 
+integrated development environments IDES where it makes your life really simple to write a 
+piece of, it’s like you are talking in some language if you make a mistake you have a 
+earphone small earphone where you hear you made a mistake here you correct it. Or you are 
+typing something and you make a typing mistake and your word processor says this is the 
+right spelling not just that it corrects it automatically or says there is a possible grammar error
+here I am just giving you analogies  right, even in programming there are such beautiful what 
+is called IDEs which helps you program really really better to the future of programming 
+would be any one can program any amount of it and with the whole lot of confidence and the 
+skill set require for one to program back in 80’s is very different from what it is today in fact 
+there are software’s called scratch a very popular one which I am going to teach you people 
+to begin with you will see the actually fun to program it’s a whole lot of fun to program in 
+fact you can develop a games of your choice by using tool called scratch. Will see more of it.
+How To Give Instructions
+So let’s do one thing, so you all know the age old way of doing a paper boat, observe carefully. How
+is a paper boat done? We take a sheet of paper ok? A very clear to you people from this angle but i am
+sure most of u already knows how to make a paper boat. Now imagine these two people are robots!
+They know nothing. Do you know how to make a paper boat? Probably not! No! Correct good. So I
+will teach you step by step, you follow exactly what I do. Firstly this is a rectangle, this is a rectangle
+right? I wish to make a square out of it, how do i do that? Just follow whatever I am doing, we can
+keep it here. May be you can tear this, all that we did was we made this rectangle, a square. Right? By
+crossing it like this and that’s the way you make a square. Right? And simply do whatever I am gonna
+tell you people. Collect all the papers here, look at this, fold it once like this and fold it again like this,
+simple ok. Show it to everyone so that they can see what we are doing and then you see what’s
+happening here, off course I am not going to teach you how to make a boat in this course but I am
+trying to tell you people that we give instructions and people follow and we get things done. Ok let’s
+go ahead now fold this like this take one leaf of this and fold it like this and the rest three leafs will be
+folded on the other side. This reminds me of my school days! So then u knew how to make a boat is
+it?  No they never taught you, rarely I remember ok! Ok. Good. So what you do is you can you should
+fold it like this basically you should put your finger inside and fold it like this and you will get
+something like form of a kite and then pluck this out, pluck this out like this and you will get a boat.
+Tada! Done? all of you, what is it that I did just now? I instructed a couple of people here on how to
+make a boat and here we have three boats. Correct? so similarly we probably can now make a plane
+out of paper or any origami art, I do it, I give instructions step by step and you also do it. If you fail to
+understand my steps you will not be able to get the boat as simple as that. So! Not the exact boat, u
+may get the some other shape or u may not end up u might end up u might end up not getting a boat
+finally! Right? So what if we get stuck in middle and it’s not opening it at all, you force it open it will
+tear ha ha ha, you will be tearing a sheet right? So the point I am trying to make is by following a set
+of instructions he accomplishes something that I ask him to accomplish, similarly your computer can
+actually understand your instructions, when you instruct the right way. Imagine i instruct! I tried
+giving this instruction in Telugu or Kannada or French or Italian or some other language which you
+don’t understand, you will not able to accomplish it or if there are any ambiguity in the instruction
+you will not be able to accomplish it. Right? So what is important here is to talk and give instruction
+in a way that whether it’s a computer or a human being you are instructing in a way that the other end
+the computer understand what you are instructing. Right! Any questions? We didn’t discuss anything
+to have questions oh go ahead! I will just sum up so just told that whatever instructions we give for
+the other person it must be very clear, crystal clear. Clear, ambiguous, is it to follow and he must be
+able to produce whatever you are trying to ask him to produce him or her? Right? Ok so this way we
+actually make a computer listen to you, take your instructions and then accomplish it and computers
+have a capability of accomplishing something really really fast right.                         
+Introduction To Programming
+Welcome to the NPTEL course, ‘The joy of computing”. I plan to start with the very informal
+session with the couple of my friends sitting here, ravikiran and sowjanya, maybe we should
+say hi to everyone. So I have handpicked a couple of my students who know little about
+programming and I would like to see how I can teach them the joy of computing. So initially
+this session will be more of asking questions and then answering, mostly asking questions
+from your side and I will try to answer at my best ok? So why are you people here firstly?
+Basically I want to learn programming. Right, have you tried learning programming before
+any time? I just tried but it seem to be really difficult sort of. So difficult hasn’t you have tried
+programming and you found it extremely harder task to program is it? Or is it that you find it
+disinteresting? It is interesting but there is a notion that programming is difficult so there is
+that clear in us that programming is difficult so. That’s true many people find programming is
+very difficult any particular reason why you think programming is difficult? Because the
+teacher who taught me was directly started that “rules should be followed” and the actual
+procedure there was no joy or there was no fun in it. Right, so have you used programming
+anywhere,  let’s say you had a real life situation and u felt the need to write a piece of code
+and then validate it and verify it or have you used programming anywhere outside your
+curriculum, let’s say apart from course on programming huh first course on programming I
+am sure these days high school have, high scholars learn programming right very basic stuff
+and given that you people have mathematics background off course you would have learned
+some packages software and even programming for that matter so outside your curriculum
+have u tried learning something? Not really. Have  you felt the need to oh here is a place
+where I think I should get to my desk try to write a piece of code and then to see what’s the
+output, has that happened ever? No I have never felt the need or urge to. So the course will
+actually be full of that in fact we will be giving you, ok we will clear ting occasion to feel the
+in need to go write a piece of coded and then see what would be the output. Right? And most
+of the course will be simply trying to mimic a game, stimulate a game and then try to play
+with each other on the computer right. Heard of rock, paper scissors. Yeah so we have seen
+where couple of people will be playing, rock paper scissors and then person feels the need to
+write the computer program for it. And there are many more instances where we create that
+desire in you to see, if this can be programmed and seen right? Ok. 
+SCRATCH ANIMATION 2
+So you people saw that we could make a cat move. Scratch gives you a whole lot of 
+possibilities in fact, I can make you people move, you want to see how? Yeah. So what we 
+will do is, we will take a picture of Ravi kiran and make him do exercise by writing a piece of
+code. In fact you will be, you will just give me two poses I will take a picture of these two 
+poses and then I ensure that I make you move around so much it looks like you are 
+exercising. Ok? Get up let’s take a picture. 
+Hello everyone in the video we saw that we took the photo of Ravi’s so that we can create a 
+simple scratch programme there he is exercising. So we took two photos of him let me show 
+you, these are the first photo he is standing and the next photo he is waving his hand, his 
+hands are one eighty degree and his legs are stretched. See we are going to use these two 
+images to create simple exercising programme. So we make Ravi jump and exercise using 
+these two images. So let’s see this so what I will do this is my, I opened my scratch profile, 
+you can see that there is a sprite ok? Which is the default sprite sprite that is a cat instead of 
+this I need ravi’s picture so that I can use it so attaing to we will hide this you can right click 
+on it and hide this hide this sprite and here you can see there is a upload button you can 
+upload your own images and create sprite from there so I will upload the Ravi’s image one is 
+this ok? You can see since this image is rotated in left side and i need to rotate it ninety 
+degree ninety degree right foot that I will go to the info you can see there is a I icon I will go 
+there and i will rotate it tats it. Ok. This is done, let me hide it for time being let me upload 
+the next image this is there again this is also rotate it ninety degree left and I need to rotate it 
+ninety degree right i will go to the info rotate it ninety degree this is done. Let me show this 
+ok? So what I am doing them is hiding it showing it hiding it showing it so when I do you can
+see that it looks like exercising or getting to different different position see so it looks like a 
+animation if I do it little bit fast then it will look like he is actually exercising so we can 
+create such kind of animations through images, this is what actually animators do, they create
+different still images and then they play it in a very high frame rates so that it looks like the 
+person is moving in the actually moving looks to our eyes that the person is actually moving 
+so this is exactly what we are going to do so I will be using this sprite only so whatever 
+function i am going to put on this sprite only this the second image so what I will do I think 
+you got in tuition what I am going to do. Now I will create a repeat block here ok, what I will 
+do I will go to motion let me check where are the show ok? Show and hide is there so first 
+time we will hide this image ok? And after this I will show the image let me let’s try this I am
+going to do this for ten times ok. It looks like nothing is happening but actually so many 
+things are happening but since there is no delay in the between it looks like he is on still bit it 
+went too fast that it look that he is in single position so what I am going to do, let me first 
+show and then hide, ok so what i am going to do, I am going to put a delay let me see when 
+the delay ok wait after showing wait for one second and after hiding also wait for one second 
+ok, now let’s see awesome! Great! So this is all what we are going to do, so it looks like that 
+he actually, he is exercising but we all know that by using the images we did this, he dint do 
+anything so such kind of animation is easily possible in scratch and you can do a lot of things 
+in scratch by set simple, simple techniques which people know so you can create your own 
+animation you can create your own series of images you can have series of images you can 
+have beautiful animation through this. You can download this scratch also for example, I am 
+using this offline you can see this offline scratch 2 editor, so you can download this scratch 
+tools in your pc and you can use it offline also thank you. 
+Ok, that was so much fun seeing Ravi kiran workout, Ravi kiran I think you should not play 
+this animation for the mornings exercise replacements definitely I will use that only! I don’t 
+think you will lose any calories if you keep watching them, you probably gain calories so 
+what you should do is maybe, you should use it as a reflection motivation he looks so 
+energetic when he does the jumping jacks you see, so when you do jumping jacks you might 
+lose out energy after two or three minutes but if you play the animation the energy looks 
+intact may be, it can see as your mirror reflection and you can work out, you should try doing
+that ok, how about you doing an exercise problem right now? Why don’t you do what is 
+called knee rise, a knee rise is you should lift your left knee put it back and then a right knee 
+it will look like stationary jogging ok? One! Another one sis you should try moon walking 
+animation for moon walking, you know what is moon walking? Have you seen Michael 
+Jackson do a moon walk? Moon walk is about walk, it appears as though you are walking 
+forwards but you will actually be moving backwards ok, try taking a couple of pictures and 
+try making it appear as though you are moon walking second Exercise.                                 
+MORE ABOUT LOOPS
+We know performed one of the major tasks in programming called the looping, we told you 
+how we can make our cat reside the multiplication tables, well we made our cat do some 
+mental exercise you see it is time for us to make her do some physical exercise. We will make
+her move back and forth by using our programming skills. Ok, friends see I have written a 
+very long code, very patiently I have tried writing this code what exactly is this code? Look at
+this, initially I am going to move twenty steps take a half a second break there and then come 
+back twenty steps, half a second pause go ahead forty steps see it’s like first day cat moves 
+twenty steps and comes back next it goes forty steps and comes back sixty steps comes back 
+minus sixty steps, eighty steps and then comes back and so on as you can see so on so on, so 
+on, move hundred, minus hundred move one twenty and then minus one twenty which means
+come back move one forty and then come back one sixty, one eighty, two hundred and then 
+come back as  you would have guessed, if you have guessed this cat will now keep moving 
+ahead like this incrementally will get bolder and bolder and move away from her house, she 
+will try going as far as possible, let’s see how this works by double clicking on this. Double 
+click; ahead back, back, ahead back go ahead back, go bolder and bolder go twenty steps 
+ahead twenty steps ahead and finally stop once you reach two hundred steps. Correct? Let’s 
+do this once again and then watch one, two, three, four, five, six, seven, eight, nine and ten so
+twenty steps, two hundred steps which is ten perfect, now I have a question for you all, she is 
+doing basically ten ahead’s and ten backs in succession right, is there any way I can use a 
+repeat loop and then put something so that the same thing can be achieved by making her by 
+do something ten times without going through this ordeal of writing this big of code, now 
+what am I trying to say, is there any way you can use this and reduce this to a smaller code, 
+because its looks like we are repeating the same stuff but these values are changing correct? 
+How do we go about it? Can you now figure out by looking at all the options here, if you can 
+do this all by yourself, we strongly suggest that you spend at least fifteen to twenty minutes 
+time figuring out, how you can achieve the same thing using the repeat loop, if you cannot 
+solve it get back and continue watching the videos.          
+Any Prerequisites
+Do I need to know something else pre-requisites? Ok. There is absolutely no pre-requisites 
+assumed for the course, all you need to know is you must understand what I talk tats the only 
+pre-requisite, some amount of computer handling, let’s say if u know how to handle your key 
+board and if you know how to click on something and open what is called a python terminal 
+that should be more than enough. Right? If you just follow our instructions you should be 
+able to do that.
+How To Go About Programming
+So you have told us that programming has evolved to be very easier these days, so can you 
+tell us how we will be leaning or how we go about programming in this course? So in this 
+course, we are going to start from scratch. By scratch I mean absolutely nothing. We only 
+assume that you know how to use your mouse and your keyboard that’s it ok and from there 
+we are going to go ahead and teach you almost everything of what one is supposed to know 
+in programming right? At the end of the course you will be ready to call yourself a 
+programmer and you can actually start programming some non tribunal things. So you mean 
+to say after twelve weeks of the course I will be really ah knowing all the requirements of 
+requirements to write a piece of code. See this I should, I should probably take a pause and 
+then I should make you all realise that programming is a whole lot of practice. It is probably, 
+it has two steps, one is you need some motivation to programme, that the course is giving you
+in abundance. No doubts about it, secondly you need to do a whole lot of practice, practice 
+comes with, you should be inspired, you should be some sort of self motivation, you should 
+sit with your friends and then talk to them and then see if there is something that you can take
+up as a challenge and then write a piece of code and then see the output that is something that
+we should gradually cultivate right? With time. This is more like singing, you see I mean you 
+cannot become a fantastic famous singer over a night; it involves a whole lot of practice, a 
+whole lot of thinking, a whole lot of culturing of your voice and things like that. 
+Programming is exactly that. In this connection I must tell you something that there are many
+people who give up on programming thinking that it is not for them and I must tell you all 
+something that to the best of what I have seen to the best of what is known already, 
+programming is quite straight forward and comes with just few hours of practice but a huge 
+deterrent for a programming is the de motivation which generally emanates from your 
+surroundings or your inability to solve something and things like that. So what you must do is
+go in baby steps, don’t try to do something very complicated in the beginning of your leaning
+of the programming, go in baby steps and go as much as possible and talk to a whole lot of 
+people, and off course as in always keep trying. Right? Nothing like it. Ahh you said about 
+programming and how we go about it, how can mathematician make use of it? Even I am 
+from math background. So you are from mathematics background, be it math, chemistry, 
+economics, physics you name it. Today there is a requirement for all of us to calculate things 
+to analyze things, right? Something as non trivial as how much water you intake every day? 
+Right? What is your, what is the change in weight from the past three four years of an 
+individual ok? What is the amount of carbohydrates that you take? Protein that you take? Can
+can  have something to say about your health. To analyze this kind of data and to infer 
+something you need programming so you see an nutrition specialist requires programming, 
+see all though you have packages which can be used to get all these things done, you must 
+keep in your mind that this packages have a programme inbuilt, because of which the 
+package works and it sometimes helps for you to understand how to programme so that you 
+can customize whatever you need to do as per your requirements. So i would say 
+programming is definitely not a must for everyone but is a great add on to your skill no 
+matter what you are doing and no matter what background you hale from.                 
+MORE ON SCRATCH
+We have now come to the flag end of our first chapter it’s time for us to summarise 
+everything that we learnt so far ,we first saw how to make our cat move, how to make her 
+rotate, what was the introduction to programming? And then I told you how to group a bunch 
+of tasks? And there lies the heart of programming, right? we spoke about loops and variables 
+and i told you how you can make the cat recite tables, then we went ahead and showed you a 
+couple of fun examples using our newly learnt programming skills it is now time to see a few 
+more topics in scratch which we will take up in the forth coming chapter. 
+Hey you can see there are so many featured projects available in scratch, you can always 
+explore them, but before we get into the details of how to design our own scratch game there 
+are many important concepts available in scratch so let us have a look at them. 
+Let us start with arithmetic operators. What are those? Pretty straight forward pull this, this 
+side ok I have put this here now I will enter let say five here and six here and when I double 
+click on this you see I get eleven, double click eleven. Double click eleven right? if you 
+change this let’s say to fifteen and then double click, you will get five plus fifteen which is 
+twenty ok and whatever is the result if you would want you can you can now put let’s say ten 
+and eight here, double click you will get two. Ok now look at this, there is something more 
+that you can do, let me delete ten here and let me put this here you see what happened? I 
+repeat I can put this here do you see what’s happening here, I can put this here so five plus 
+fifteen is twenty, twenty minus eight is, what is it? Whatever is the answer, you will see that 
+here, it’s twelve correct? And I can go on doing this in fact I can take a subtraction thing and 
+then I can divide the answer by two and I can pull this entire thing here like this, so you take 
+this and place it here so it is five plus fifteen is twenty minus eight is twelve by two is six 
+double click and you will see six ok? You can ease this, you can use these arithmetic 
+operators the way you want and also there is an interesting function here, see what this does? 
+Isn’t that self explanatory? I don’t have to explain this to you correct? It fix a random number
+from one to ten double click ten, double click six again four, double click one double click 
+six, double click four, double click one see it is very random it doesn’t follow any pattern ok 
+don’t worry so much about how exactly this is done? That’s a very complicated subject all 
+together but you please be aware of this very beautiful facility of scratch, which gives you a 
+number between one to ten picked randomly. So it is not just limited to one to ten as you 
+would have guessed you make this hundred it will pick a number from one to hundred, I just 
+made this hundred right now double click you will get a random number twenty two between 
+one to hundred twenty two, twenty three, fifty five, twenty three, fifty eight, seven, ninety 
+seven, eighty five, eighty four you see there is no particular pattern, you can start from any 
+number up to any number ask for a random number you will see we will using this a whole 
+lot in our  explanation throughout our course we will be using this, right? So scratch is that 
+way very interesting and very straight forward and self explanatory that you just see it you 
+could guess what this function is ok, So let me do something very interesting then let me keep
+this aside may be even delete this, let me do something interesting. Let me consider, I have to
+pick a random number from one to hundred and put that here you see what I am doing and 
+then pick another random number from one to hundred and put that here, and what is a result?
+Double click on it one ninety so you pick a random number you pick a another random 
+number, you are adding it double click one forty four so some of two random numbers pick 
+between one to hundred is giving you some random number here and some random number 
+here, is giving you so much ok ninety five, one sixty one, one thirty nine, hundred and so on 
+in fact what you can do is you can make our cute cat recite these numbers, let’s see how she 
+can do it? Go to looks, go to say hello keep it here double click on it she will say hello, you 
+take whatever you want, you want her to call out my name? Hi sudarshan! Double click, she 
+say ‘hi sudarshan’! What you can also do is delete this, can you guess what i am going to do 
+next pick this and put this here what will she say now, she will tell you a random number the 
+answer basically she less spit out one one two, twenty four, one forty four, seventy three and 
+so on, one not four ok I can play around this and make this ok remove this what was this 
+doing here? You see the pieces here I pick a random number from one to hundred this was not
+required ten in ten not required, you can put whatever you want here, put whatever you want 
+here and make the cat say, I will just make her say ten plus twenty, what is that? You all know
+its thirty but let me see whether see says thirty or not, double click here and she says thirty 
+hey! That’s right, so it so much fun to keep doing this you know the you can just try whatever
+you want, go to the operators and do whatever kind of operations you want and then make her
+say whatever you type right? Isn’t that awesome? Right so now it’s left for you to explore 
+these things and now move onto the next topic. 
+We will now make our cat ask your age and say something about you, what is that? What 
+exactly does she ask for and what will she do based on your age? You should wait and see, ok
+so now, let me teach you something go to operators and you see this join, this is nothing but 
+two strings that you type here will be joined as the one string, you see you type let’s say my 
+name here and a space and you type nptel it will show ‘sudarshan nptel’ ok, whatever you 
+want you can put ok? New space and then Delhi here it will show you newdelhi ok? You put 
+first space second it will show you first and second ok so of what use is this? Let me make 
+the cat do something and then make it clear to you what could be an application of joining 
+these two strings, let me now go to looks and take say and then let me create a variable called
+name. Ok done so name will contain nothing to begin with as you know it always starts with 
+zero set name to let say your name, my name I will put sudarshan space so name will be put 
+as sudarshan and cat will say call out my name right now, you see what’s happening, it will 
+say sudarshan but I want her to say hello sudarshan, how do i do that? Pretty simple. Remove 
+this, Say hello here space and then put a name here it will say hello and whatever is the name 
+said to sudarshan perfect! Now click on this, she will say ‘hello sudarshan’ is that clear? 
+Perfect. So she now saying ‘hello sudarshan’ and then I want her to take my age let’s say I 
+create a variable called age and I will set age to whatever is my age ok, age is now thirty five 
+and I want her to tell me whether I am an adult or not? Off course I know I am adult, I am 
+eighteen plus but I want the cat to decide whether that I am eighteen plus or not? How do I do
+that? There is something called if look, an if look which does the following, so if the age is 
+greater than or equal to eighteen how do I do that? Go to operators am being little fast here 
+because I have a felling you are now, you people are now familiarising yourself with the 
+scratch programming and you are way too comfortable with whatever I am doing right? If not
+you may want to pause and then try it out yourself slowly and then see what is happening 
+here ok? Ok. If the age is greater than seventeen, if age is greater than seventeen means what 
+the age is greater than or equal to eighteen, seventeen is not allowed if the age is greater than 
+seventeen then the cat will say, it says hey you are an adult, you can do anything you want, 
+although this is not true you cannot do anything you want by anything you want I mean 
+anything that is allowed for you to do right? But if the age is less than something it must say 
+oh oh! You are not an adult. How do I do that? Go to control, go to if, go to data take your 
+age, go to operators use this less than if age is less than eighteen which means seventeen 
+sixteen fifteen and so on the cat must say, how do i make her say, cat must say oh oh! You are
+still a kid! The world is not so open for you ok, now what happens if I execute this let’s see, i 
+will click on it first ok, i should put a pause here you see that’s very important, control and i 
+make cat wait for let say three seconds and i am going to set my name to sudarshan the cat 
+will say ‘hello sudarshan’, it will wait for three seconds and age I am going to enter here 
+based on what is my age it will say so and so ok let’s see, double click hello sudarshan wait 
+for three seconds hey you are an adult you can do anything you want but if my age where to 
+like say fifteen, I am far from fifteen but assuming that i am fifteen i double click on it, it will
+now come here, off course say hello sudarshan wait for three seconds my age is fifteen now it
+will come here, it will see that the my age is greater than seventeen no! Which means this will
+not get executed my age is less than eighteen yes! Fifteen is less than eighteen so this will get
+executed let’s see. Double click on this hello sudarshan wait for three seconds and then this 
+will happen, ok if you are finding this a little confusing what I will do is I will separate this 
+from this forget this for the time being will not worry about this we will only look at this 
+code, if age is fifteen double click it says oh oh! You are still a kid, if age is ten what will be 
+the answer? Age is less than eighteen off course this should get executed let’s see, double 
+click yes! The same thing, if my age was twenty five then I am an adult it should say you are 
+an adult double click yeah! You are an adult, you can do anything you want, now do you 
+understand the importance of this loop? It just checks for a condition and does what you ask 
+the cat to do here ok, now, let me add a small animation to it just for clarity, one second, hey 
+you are an adult and move a few steps forward ok, it must move some twenty steps forward if
+one is an adult so set age is twenty five which means this must get executed, it must move 
+twenty steps ahead see it says and it moves ok, let me give it a pause so that it is visible to 
+you people. Wait for a second and then move, see it moves it says hey! You are an adult and 
+moves by twenty steps again double click says hey you are an adult and moves twenty steps 
+but if I am ten year old double click it says oh oh you are still a kid world is not so open for 
+you it doesn’t move ahead right? Because in my if loop here this gets executed and only this 
+is displayed. Correct? Now if I were to take this and put this here let’s say wait for a second 
+and then move twenty steps backwards so if you are not an adult which is by the way the case
+here given that your age is ten she will move back a little ok, Let me say minus thirty, she 
+obviously! Minus forty also so that she goes back twice the distance double click she goes 
+back correct? Again double click she goes back correct? She says this and then goes back 
+correct? But if it was some, if i was sixty here old she will call me an adult and go forward, if 
+i was five year old, she will say I am not an adult and still a kid and she will go back. I 
+believe you are seeing her move back here, five here let’s say forty she will move ahead 
+correct? Perfect! May be, you may want to write this code and then check if it’s really 
+working the way it working with me right and you may want to explore how if works with 
+the different example and a small exercise for you all, what do you think the if then else loop 
+does? This is called a loop ok? I told you how if then works, if then is what is given here you 
+must tell me how if then else works? Go on. Before anything let me attach this here and try 
+executing this programme for one last time with my age double click says ‘hello sudarshan’ 
+and my age is given to be this and it moves forward and says you are an adult and you can do 
+anything you want perfect! So let me move on to the next lesson. 
+So it was a whole lot of fun learning scratch, I must tell you people that not everyone has this 
+bend for programming in the beginning, it takes some time to seize in your minds and scratch
+does that to your mind. You will have a clear understanding of how a loop works, we saw 
+how a list works, what is a variable, what is a block? You see, block is something that 
+repeatedly does a kind of instruction that you give and you can use that any where you want, 
+it is actually called a functioning programming. Will see those details very soon, may be you 
+are wondering, Is programming so much fun? In fact it is indeed so much fun but scratch 
+makes it a whole lot of fun so now let’s switch our guess and look at python as a 
+programming language trust me if you are very good at scratch you will not face any 
+difficulty learning python. So you mean to say that there are lot of similarities in python and 
+scratch, I would say that they are exactly the same although you will not have this facility of 
+drag and then using repeat loop and things like that, scratch is made for eight year old, python
+is lot more powerful and hence given that it lot more powerful the way you write a piece of 
+code in python is very different and can be just a little more challenging than how you do it in
+scratch.                                                                   
+Introduction To Loops
+We are on to discussing something very significant, important and a novel concept for a 
+beginner ok. What is our ultimate aim? To make our cat recite five tables ok? And now I am 
+going to introduce you people on what is called a variable? Ok. That’s what is the important 
+significant thing for a programmer I was talking about. Go to data click on it, click on make a
+variable, it will ask you for a name put any name you want now here is a confusing part you 
+can put your name or you can simply put a letter you can simply enter whatever you want 
+here, a word also let me simply enter “S” to begin with and click on ok, you will get a S here,
+you saw the difference right? Correct? Now pull this aside and keep it here double click on it 
+you will get a 0, a variable is always 0 unless otherwise initiated, what do i mean by that? I 
+will tell you next, pull this this side it says set S to i will put 15 here which means when you 
+double click on this S actually becomes 15, double click on this S we are getting 15 right? 
+Also for your reference this shows, the variable value which is 15 here correct? Ok. Now 
+when I, let me tell you what is change. When I say change S by 1 you will see what happens, 
+double click on it S changes by 1 means S gets incremented by 1 ok? Double click on S you 
+will see 16 now, you also see 16 here right? If you say change S by let’s say 20 what will 
+happen? The existing value 16 will get added by 20, which makes it 36. You see you must 
+practice a whole lot of handling variables, exercises; you should try playing around just this 
+thing, just this much. Make a variable and try to see what exactly happens? Let us do a small 
+exercises now let’s go to data create a variable, let me call it X. Create another variable, yes 
+you can do as many as you want call it Y and you are done, you have X and Y correct? And 
+let me set the values of X and Y, how do I set it? You go here, you will get all the current 
+variables that you have defined X, I will set X to something, Y to something ok? Let me do 
+that 10 and Y will be let’s say some 12 ok? You still see that X is 0, Y is 0 correct? Let me 
+also keep them here as you know, you can keep these here double click and then see what 
+their values are? It is 0. That is because I am not double clicked on this the moment I double 
+click on this, this two get executed so double click now X will be 10 Y will be 12 as is 
+evident here and also double click 10, 12 perfect! Now what I want to do is add these two 
+variables, how do i do that? Go to operators you have an addition operator here, bring that 
+here and then go back to data, bring set here create another variable namely Z you see what I 
+am doing Z gets created. What is Z? Double click 0 ok? I am going to set Z to be X+Y how 
+do I do that? First put X here then put Y here and then say set Z to X+Y and bingo!! You see 
+what’s going to happen now? Double click on this Z is now 0 but double clicking on it will 
+make X 10, Y 12, which already the case by the way and then will make Z become equal to 
+Z+Y which is that should become 22 here, should become 22, let’s see what happens? Come 
+here and then double click boom! See Z became 22, Z now is 22 correct? So you can do a 
+whole lot of such operations here ok? Let’s do more for the sake of explaining things to you. I
+want to subtract also ok? Subtract what from what? Go to data subtract let’s say X-Y ok? 
+Double click on it you will get the answer but then if you want to set it on a new variable then
+you should use set let me call it a new variable, make a variable, let’s say diff. Diff gets 
+created please note variables need not necessarily be a letters it can even be words like this 
+strings like this. So I am going to say set diff to be the difference so bring it here and then 
+double click on it, now my difference will be X-Y whatever X was whatever Y was the 
+difference will be diff perfect it showing -2 and you want this to be sequentially executed 
+simply keep it here, now tell me what happens if I make X as 35 and Y as 15 what will 
+happen to Z? It will be X+Y, Z should become 50. X is 35, Y is 15 why is it showing 10 and 
+12 that is because I am yet to execute these things. Ok? Double click here and all these values
+will change. X should become 35, Y should become 15, Z should become sum of X and Y 
+which is 50 and diff should become the difference which is 35-15 what is it? 20. Correct? We 
+must see 35, 15, 50 and 20 let’s see if this is visible? Double click boom! Yes perfect 35, 15 
+50 and 20. So now you have understand how to set a variable to a value, perform a few 
+operations assign the values to a new variable. Ok? Go back to operators explore all these 
+things look at data you can create variable and use them to do whatever you want. So what 
+was our mission? We wanted our cat to recite the five tables, how do we go about doing that? 
+Let’s see. First let me go to data and create a variable let me call it‘t’‘t’ for tables 
+multiplication tables ok? And then I want to set‘t’ to 5 and then I want t to change by 5 every 
+time ok? And I want my cat to say these, how do I make her say this? Say hello so say go to 
+data take t and out that here so you are making t=5 you change t by 5 no! I think before that 
+we should make her say t and then you can change t by 5 and then make her say t once again 
+how do i do that? Simply copy paste say t once again ok? Double click ‘t’ set to 5 and she 
+says ‘t’ 5 and then changes ‘t’ by +5 and then says ‘t’ but this happen so fast you cannot see a 
+five come here, let me try it once again. Oh see you can’t even see because it gets executed so
+quick so what will I do? I will go to control and I will say wait one second, with this you will 
+see that a 5 comes here, you wait for a second so that you see it and then t changes by +5 and 
+then‘t’ is again displayed which is 10 let me see this, double click huh see 5 comes and then 
+10 comes after a seconds time, double click 5 and then 10 so what should I do? I want this to 
+repeat, what to repeat? Wait for one second change‘t’ by 5 and say‘t’. Right click on this and 
+say duplicate you will get the same thing keep it down; this will now be 5, 10, 15 if you know
+what i mean. Correct? Let me see double click 5, 10, 15 good my cat can say 5 tables up to 
+5*3 is 15. Let me make her say up to 50 5*10 is 50 how do i do that? Keep copy pasting this 
+below, right click duplicate, means you will get a duplicate of that keep pasting this below 
+like this duplicate down, duplicate down, duplicate down, I have not kept a count of how 
+many times I am saying let me double click and check. 5, 10, 15, 20, 25, 30, 35, 40 this is a 
+dumb cat as I told you she will only do what is being instructed, she is not intelligent enough 
+to understand that we want up to 50 and she must go up to 50. Unless and otherwise specified
+she will not do it. So what need to be done now? Yes i must duplicate this just a couple of 
+times and there I am, this makes it 10 says of‘t’ which changes by 5 every time and this must 
+make our cat recite the 5 tables from 5 times 1 is 5 up to 5 times 10 is 50 so basically you see 
+5, 10, 15, 20 up to 50 let see if she does it! Double click 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 
+hip hip hurray!!! There you are so we made our cat recite the 5 table. So we made her recite 
+the 5 table from 5, 10, 15 up to 50 I have a feeling there is a better way to do this and what is 
+that better way? Can you think? Can you try before proceeding any further? It will be a good 
+exercise for you all. Now if not I am always there to help you, maybe we want to pause here 
+and then try it to do it all by yourself, if not lets continue. Go to control and then look at this 
+repeat, keep it here and then simply take, let me duplicate this I don’t want anything beyond 
+this ok? Let me delete this I only want I want a set‘t’ to 5 to begin with and then repeat this 9 
+times, repeat what? I want to say‘t’ first 5 is being said wait for about one second ok? And 
+then again let me delete this i want the cat to say t after changing t by 5 ok? So see what i am 
+going to do now change t by 5 and then say‘t’ and wait for one second and I am done! Let me
+delete this and try explaining what I just did. ‘t’ will be 5, cat will say 5 we wait for one 
+second and I then repeat this nine times ok? Which means i change t by 5 which means ‘t’ 
+become 10 I say 10, I wait for one second and this happens nine times which means i will go 
+on and recite the entire thing, correct? The same thing the same thing can be done in such a 
+small piece of code, do you see the power of this repeat loop here but let’s see whether it does
+or not? Double click and there we go 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 yes we did exactly 
+this bigger code equivalent by writing a small code correct? Ah is there any way I can even 
+better this code let me try bettering this code. All of you observe, i duplicate this I go here I 
+simply want to repeat something ten times repeat what ten times? I want the cat to say five 
+first so for that t=5 and then I want this to be done inside, I don’t want any of these things, let 
+me delete these things see what this code does first sets‘t’ to 5 and then repeats say t change 
+by 5 and then waits for a second let me see whether it does what it is suppose to do. Double 
+click 5, 10 so on let see whether its stops at 50 yes 35, 40, 45, 50. You are just wondering 
+why exactly i did this, this looks exactly similar to this even does what this does but this will 
+give me enormous amount of flexibility, and what is that. See what I am going to do I am 
+gonna do small magic for you all. Click on make a variable and create ‘any’ I will type any 
+here, ‘any’ is now a variable ok? And now I will set t to not 5 but any and I will change ‘t’ by 
+not 5 but any and i will now set any to let’s say 7 pause the video observe the code, what 
+exactly this code does? And then un pause play the video and see if you are right or not? Ok. 
+I suppose you all pause the video and gave your guess now double clicking on this will 
+simply give me 7 tables isn’t it? How? Let’s see whether it gives me 7 tables or not. Double 
+click 7, 14, 21, 28, 35, 42, 49, 63 and 70 this gave me 7 tables that because whatever was 
+given here I tried replacing 5 by another variable which I could flexibly change, what do I 
+mean by that? If you make this eight or nine let’s say it gives me the table for nine look at this
+double click and i will get tables for 9 right? 27, 36, 45, 54, 63, 72, 81 and 90 that is basically
+9 table in fact you can even make it recite 19th table which by the way I never learnt as a kid I
+knew tables only up to 9, I dint even know 12 table but let me see whether it can recite 19 
+table very unfortunately I will not be able to verify given that I don’t know by heart so this is 
+going on I know we should stop on 190 let me see. 171, 190 perfect! So I now can make the 
+cat recite any table which even I dint learn as a school kid.                                                  
+Introduction To Scratch
+So trust me on this, most of your questions can be solved once we start programming. Let us 
+start from their basics and try to build up one step at a time; most of your questions cannot be 
+answered in plain English although I have tried my level best to do that. You will realize that 
+the best way to answer it is to experience it all by yourself. Ok. So let us not get going with 
+our programming journey with the very nice online package called scratch. This actually a 
+programming language and trust me the pre requisites, the age from where one can start using
+this programming language is actually just eight. An eight year old can understanding this 
+programming language really well and trust me it’s actually very addictive. Look at this little 
+cat here and look at all the commands over here. You know these commands give this cat a 
+whole lot of power and let’s see what exactly are the powers that you can enable the cat to 
+perform something right? When you say move ten steps I think it’s obvious for you all. The 
+moment you say move ten steps she must moves ten steps ahead so let me say move ten 
+steps! Move ten steps, she is not moving! Probably there something else I must do. What is 
+that? So it is double clicking on the “move 10 steps” that is what is going to make her move 
+and if you change the 10 steps to 50 steps, I type 50 here; it’s going to make her move 50 
+steps. How? Not by just clicking on this once but click on this twice. A good thing to do is 
+possibly open this scratch window by going to scratch.mit.ed it is there in the description of 
+this lesson and then you can try it all by yourself as I am trying it. So move “50 steps” she 
+moves. In another time move 50 steps, she moves. Let me say move 100 times, 100 steps she 
+moves 100 steps. I am going to pull her by the tale and bring her back, ok so again move 100 
+steps, she moves. Move move perfect! And as you can see there are self explanatory stuff 
+here. “Turn 15 degrees” says a command, when I keep it here and double click on it look she 
+is going to move 15 degrees. Correct? Let me make her move completely right? She move 
+she move she moves and finally she comes back to her original state ok? I can also move her 
+in the opposite direction, I made her move clockwise, I can make her move antI clockwise, 
+look at this double click, double click, double click she is moving and double click this she 
+moves in the clock wise direction. Go ahead 100 steps, turn by 15 degrees go ahead 100 steps
+turn 15 degrees, go ahead 100 steps turn by 15 degrees go ahead turn turn turn turn turn turn 
+turn and then go ahead, you see I can command her using these commands. She went back let
+me pull her back let me turn her she comes back to her original position. Ok. What have you 
+learnt so far? You have learnt the following. Here is the cat and you can instruct her to move 
+the way you want, the way you want here is basically the set of command given here, some of
+them sound complicated but don’t worry with time you will be able to understand almost 
+everything of what is given here. As of now we just learnt how to make her move ahead and 
+how to make her turn the way we want. Let us end this lesson by making her turn by let’s say 
+90 degrees so this will make her turn by 90 degrees, right? Again let’s say 70 degrees and I 
+am just typing it here 70 and then again let’s say 80 degrees, 80 degrees and so on right? So 
+now it’s time for you all not to go ahead with the next lesson but to open the scratch window 
+and try playing around with her and make her move around, turn around, and do whatever 
+you want. Sky is the limit as you can see and its whole lot of fun making her do stuff ok? You
+can in fact explore other things here also, although we will be covering all these things it will 
+be good if you can go ahead and look at this mini laboratory of how to programme a small 
+unit graphical figure? We just now made the cat rotate; move around this was just the 
+beginning. You can do a lot more with the scratch then this let us see more of it in the forth 
+coming videos. 
+We saw how we can make this cat move, rotate and things like that. Now what I am gonna 
+tell you is what is called grouping these instructions? Some I am gonna group them you 
+easily guess what that mean? Basically I just zoomed the commands but it’s easily visible for 
+you. What I am going to do is, I am going to make her move by 100 steps and again move 
+back by -100 steps, what is this mean? Clicking on this will make her move ahead, clicking 
+on this will make her move back to her position it’s like go ahead 100 steps and come back 
+by 100 steps. Right? Ok. And then let me say ‘I want her to turn by 90  degrees’, so when I 
+click on this she turns by 90, again turns by 90, again turns by 90, and again turns by 90. So 
+what I want her to do is let’s say first move 100 steps and then turn by 90 and again move by 
+100 steps so I should bring back move once again keep it here make it 100 steps and then turn
+by 90 degrees. What will this do? Let me keep this aside. So when I double click on this she 
+will move back by -100 but when I double click on this she will perform all this 4 things 
+continuously, simultaneously ok, so let me just remove this, this is not required I double click
+on it and click on delete. ok? And it’s gone. So when I double click on this, the first one she 
+will move 100 steps, rotate by 90 degrees and again move by 100 steps ahead and then rotate 
+by 90 degrees, let us see whether this happens or not? Boom!! She comes here and then she 
+settles here, we couldn’t we couldn’t recognise what exactly happened right? Now if I click 
+on this once again she will move ahead by 100 rotate move ahead by100 rotate and stop. See 
+that happened now. I click, she comes here, I click, She goes back the movement is so sudden
+but we are unable to observe what’s happening? Right! So there is a way in which we can 
+actually make her wait between the commands that is called if you click on control you will 
+see what is called wait here, you can insert wait she will move ahead wait for one second and 
+again rotate by 90 degrees, I want her to move, I wanted to wait her for one second once 
+again and then move 100 steps and then again wait, ok now what will this do? Very simple 
+see most of scratch is self explanatory, I would say all these video lessons are not so 
+important. What is important is you should experiment with what stand for what? Now let me
+double click on this, let’s see what happens? Self explanatory isn’t it? Move by 100 steps 
+moved, waiting for one second move, rotate and stop! I repeat, move by 100 steps, rotate, 
+move by 100 steps, rotate. Even that I have given one second time this is happened. Correct? 
+What do I want? I want her to move ahead let’s say by 200 steps, what will happen right 
+now? She will move a whole lot, rotate, move just a little 100 rotate and stop. So I want her 
+to move 200 steps always and go back to her original position. She went away somewhere! 
+Let me pull her back. So I wanted to start here move by 200 steps, she is somewhere here, 
+rotate and then she will move, rotate and then she will move, rotate and then she will move, 
+she will complete a loop you see, she should get back to her original position. So what do I 
+do for that, self explanatory I should again make her to move by 200 steps, go to motion click
+on it put move here move by 200 steps I want her to wait for a second, so go to control and 
+then say wait for a second move by 200 steps and then again rotate right? You must again 
+make her rotate by 90 degrees again I want a wait in between as you can see otherwise you 
+cannot see her move, computer is very fast, the computer will make all these commands get 
+executed in a fraction of a second you will not be able to see her move properly ok and again 
+rotate by 90 degrees, lets revise. 200 she comes ahead, 90 degrees-she rotates, 200 steps, she 
+comes down, 90 degrees-she rotates, 200 steps-she goes here, 90degrees-she rotates and 
+again I must say move by 200 steps isn’t that right? She should move four times, once she 
+goes straight, rotate and move she comes down, rotate and move she goes to the left, rotate 
+and move she goes up once again control wait for a second tada! There we are just double 
+click on this go, rotate, go, rotate, go rotate, go rotate. Ahh! She is not rotating because I am 
+not rotating here so what I should do that the end I must make her rotate once again, so rotate 
+by 90 degrees hip hip hurray!! We are done. Wait for one second and this will make her do 
+the trick so but I will I will I am rotate her by 90 degrees right now otherwise she will not 
+start from there, so I will create a new command just to rotate her by 90 now we are all set, 
+bring her here and then double click on this, this is a separate command we can double click 
+and she will rotate like this once twice thrice four times as when double click on this, this will
+happen but when you double click here move, rotate, move, rotate, move rotate, move and 
+then rotate is what’s happening right? These were the list of commands which made you write
+your first programme, a set of instructions for this cat to move and complete a square. 
+Remember the example of coffee, tea, 5 of them, 3 of them and things like that correct! I gave
+you people instructions and you followed it remember? 2 coffee, 3 tea, cookies! 4 cookies 
+and things like that right? Similarly I give him instructions, I give the cat instructions to 
+rotate to move ahead few steps and he does that ok. We just saw how we can group a bunch 
+of commands! And execute them in an instance. This is one of the most powerful concepts in 
+computers and especially one of the aspects of programming that is worth appreciates it. You 
+can write a long piece of code running through several consaflaince which will execute 
+something very quickly, let’s say you click on your icon on your computer and the 
+programme opens this particular thing is actually a piece of code, a long piece of code but it 
+acts so instantly that you will not realise that it is so longer code that we double click and it 
+gets executed in fraction of a second. Fine, now we will go ahead and understand what are 
+called the looping structures. If you want to get a bunch of things done repeatedly there is a 
+nice way of doing it in programming and let’s see more of it in forth coming sessions.             
+SCRATCH ANIMATION 3
+Who said programming is for geeks!? We just now illustrated that the programming is so 
+much fun right? We saw a friend of ours doing jumping jacks we made him do repeatedly and
+we also saw how we can make a flight land and take off right? So we will see one more fun 
+exercise before we stop our adventure scratch. 
+Hello guys, hope you would have seen a lot of fun filled activities that you can do using 
+scratch, so you would have seen jumping jacks recently that is nothing but we are using some
+two different images and we are alternating displaying them in a smart way that it appear to 
+the user that the person is actually jumping, so something like that you can do a lot of cool 
+stuff, sir has given you some exercises I suppose, please do try them also do explore still 
+what all could be done, you use your creativity do a lot of stuffs and this is how you can 
+improve your logical listening and the ability to get things done using a computer. So please 
+do explore scratch to the fullest possible and in this programming screen cast we would see 
+yet another fun activity, we are not going to use this cat in this I hope you had used the cat a 
+lot you had made her do a lot of work so let me say this cat must be hidden, so I will hide her,
+so in looks category you have an option ‘hide’ let me say hide and say double click on it, she 
+is hidden done! So if not cat what am I going to use? So I am trying to stimulate eagle 
+catching a snake, so this is what I am trying to stimulate, for that we need to check out the 
+sprites for eagle and snake, some sprites are available in the library from scratch or you can 
+also draw your a new sprite as per your wish or if you have an image file something like that 
+you can upload it or you can readily take from your web cam as well. These are the options 
+provided in scratch, I have an image file I am going to upload it because in this library I had 
+checked animals category eagle snake is not provided in this library, so I am going to use 
+image that I had taken from the internet ok, so let me that is available in my system right now
+so let me go to it and let me download, I had downloaded and kept it so let me take that 
+image, eagle ok and open it ok so I want the eagle to be positioned here so eagle would be 
+flying in the sky right? So this gives an illumination that the eagle in the sky so I had 
+positioned it here so roughly the co ordinates you can say one eighty six, one eighty nine so 
+let me set it so that the eagle comes, if you want to repeat the exercise again and again the 
+eagle comes back to this position and starts flying from this position, let me set the position 
+for the eagle, set ‘x’ to one eighty six ok, and set ‘y’ to one twenty nine or may be slightly 
+above one thirty ok? So given that I have set so eagle has come to this position see one eighty
+six, one thirty two eagle has come to this position and I wanted to catch a snake, so we 
+wanted a snake that is happy that is happily lying on the ground, the eagle has spotted the 
+snake while flying and so it flies down, it will fly down and come and catch the snake. That is
+what we wanted, so let us upload the image of the snake, for this the snake is very happy 
+that’s what I said let me show you the image as well, first let me show you the image I guess 
+it’s better if I can show you the image ok, so here in downloads I have it ok, so smile and cry 
+there are actually two images see this is the image of the snake, see the snake is smiling 
+right? So the snake has been smiling and happily lying on the ground so when the eagle 
+catches the snake it shouldn’t remain happy, it should cry so when the eagle catches the snake
+we should make it cry, so but how can we make it cry? Same old trick that we used in 
+jumping jacks we will have another image of a crying snake and we let that particular snake 
+appear when the eagle catches this snake and this snake would be hidden, this is what we are 
+going to do. It will be clear as the programme proceeds, if you don’t clearly understand what 
+I am telling now it will be clear don’t worry please observe it this is the smiling snake image 
+that I had downloaded and another is a crying snake image ok let me, see the snake has been 
+crying you can see the tears flowing from here. The snake has been crying see the snake is 
+crying alright? So I am going to use these two images, I have to upload the images so let me 
+click this icon to upload it from the file so my first is the smiling snake tats what I want 
+smie.png file let me upload it so this particular snake, snake, I want it here see we had set the 
+position for the eagle that is not visible when we click on the snake so please do understand 
+that scratch treats each of the sprites as independent objects so when we want this particular 
+snake to do something on the event of the eagle we need to use something on the event of the 
+eagle doing something, we need to use the options given under this category events so in this 
+programming screen cast you will learn about the options given here, how to make use of 
+them this will be major take home lesson out of this programming screen cast ok? So this is 
+the position we want our snake to be ok? Let me say this is our snake, this is in position 
+minus one seventy nine minus one twenty nine so let me set it set ‘x’ so that ‘y’ do I set the 
+position because in case if you want to repeat the experiment you cannot every time adjust 
+the snake adjust the eagle to ask it to do as you wish, you wanted to get adjusted 
+automatically you want to adjust once and set it once it is set that has to get adjusted 
+automatically that is what you want them to do right? So that is why we are setting it, so ‘x’ is
+minus one seventy nine and ‘y’ is minus one twenty nine so set ‘y’ to minus one twenty nine 
+so if you don’t understand how the coordinates are being set please you can refer here the 
+positions are shown here may be I will this particular portions, this particular place you can 
+see the coordinates. Ok? So please note the coordinates minus one seventy nine and minus 
+one twenty nine and this is the position we want our crying snake also to come so let me 
+upload the crying snake to the name is cry.png this one let me upload it so crying snake has 
+appeared here so let me set the position minus one seventy nine and minus one twenty nine 
+let me set them set ‘x’ to minus one seventy nine and set ‘y’ to minus one twenty nine initially
+I don’t want the crying snake to be, see now the smiling snake and crying snake are in the 
+same position so it is imposed one above the other, super imposed so I don’t want the crying 
+snake to appear now so let me hide it hide options is available in the looks that you would 
+have seen in the cat right? Let we don’t need it so we had hidden it so let me hide it so now 
+let me double click ok so the crying snake is hidden now alright. So now we have to start 
+animating with the eagle so let us say the snake is happily lying on the ground the eagle has 
+spotted the snake it has to fly down and catch the snake, so how would you instruct it to fly 
+down? Move few steps it keeps moving in the straight line it can’t hit the snake so it has to 
+move few steps slightly change its direction again move change its direction move change its 
+direction this is how the eagle has to fly, this is how we have to instruct the eagle to fly, so let 
+us do that. So in motion category we have this thing move ten steps for the eagle please note 
+that all these instructions we are giving for the eagle so eagle so you can see the blue box 
+around the eagle which denotes that this particular instruction are given for the eagle sprite 
+ok? So move ten steps then I need to move in this direction so this would be approximately 
+you go thirty backwards in the ‘x’ axis and ten backwards in the ‘y’ axis that is the direction I 
+wanted, this is just an approximation let us see how it works in cast if it doesn’t works how 
+we wanted we can adjust the parameters any time, this is just approximation an eye 
+approximation that’s it so and also note that this may differ with respect to the images, I had 
+taken some images if you have some other image the based on the image dimensions of how 
+much space it takes, based on that this image is a smaller image so it takes  less space so for 
+that these parameters may work but for any other image, if you take depends on that image 
+parameters may change so it’s better you can, you try once and then you finalise the code 
+that’s what I am going to do now to so I am asking it to move ten steps see it moves ten steps 
+see it moving in the backward directions so I need to ask it to come here so I should say to 
+change your x position you move change your x position and y position this is what I am 
+going to say, change your ‘x’ position by this is your visual approximation I guess minus 
+thirty and change your y position by minus ten I feel this would be better let us check how it 
+goes ok yeah its approaching towards the snake see its approaching towards the snake so I 
+keep clicking for each click it displaces by some amount of distance so I just, I need to use 
+repeat loop so that it approaches here till the snake so let me use a repeat loop control repeat 
+ten times, let me try with ten times so let me again restart. I set the eagle to the initial position
+now let me repeat it ok, it has come half way so let us give a try for twenty times ok, let us 
+give it a try now. It is in its initial position and let us give a cry, oh it is crossing the snake so 
+let me try nineteen times because for ten it is not very closer to the snake and for twenty it is 
+crossing. so I am slowly decreasing the value from twenty but it is just a hit and try last. I had
+said it depends totally on the image whatever image you have downloaded based on that the 
+things may change that’s why even I am showing you the hit and trial method. Ok so I had set
+the eagle to the initial position let me execute this ok so it has touched the snake, no! Not 
+fully right? This portion, this portion has to touch this is just the tail part has touched the 
+snake so what should I do now? The ‘x’ position is perfect ‘y’ position it has to come slightly 
+down that is the tail portion is touching the snake it has the eagle has to come down so that it 
+can completely touch the snake, so I have to make it come down, to make it come down I 
+should change the ‘y’ value ‘y’ position means the ‘y’ position controls whether it has to go 
+up or down if you give a positive value it goes up for a negative value it goes down, similarly
+‘x’ position is for left and right if an ‘x’ is given in an negative scale the object will move to 
+the left and for the positive value it will move to the right. This is how the working is so I 
+want it do come down so I should give a negative value of ‘y’ let me say I will experiment 
+this is purely an experiment so let me experiment change ‘y’ by minus ten how far it moves, 
+let me see ok, change y by minus ten ok? Let me again restart it is set to its initial position, let
+me repeat. Ok perfect I guess now it’s perfect or shall we move still down we will try, ok let 
+me make it minus twenty ok, it is set to the initial position let me repeat ok perfect it is now it
+can easily bend down and take the snake that’s it means the snake is much reachable to the 
+eagle currently so this position is perfect, so eagle has been moving like this so based on this, 
+this snake has to cry so how will we do that? We have to hide the smiling snake and make the
+crying snake appear, that is what we are going to do, so but in jumping jacks and here what is
+the difference is in jumping jacks you had the alternating of pictures after few seconds so it is
+alternated in a cycle something like that you had, you waited for sometime it has alternated in
+a cycle but here the appearance of another image depends on some other event so event 
+management is what we are going to do so when the here we have set the kite! Set the eagle 
+ready to fly so let me say it has to pass a message, broadcast a message that is it has to pass a 
+message but it has been it is flying so let me broadcast the message I can create a new 
+message I will say flying so the eagle will broadcast a message that I am flying something 
+like that so it is broadcasting the message that I am flying so given that it broadcasting the 
+message only then the smiling snake has to come. And the crying snake has to be hidden if 
+the message, broadcast message has been received so let us first configure that, it should not 
+remain hidden if you so this it will remain hidden forever we want it to be hidden only till it 
+is flying, till the eagle is flying the snake is unaware of the eagles arrival so it is smiling once 
+the eagle has reached closer to the snake, only then that it starts crying only then the crying 
+snake should appear till that it should be hidden, so when it is flying this crying snake has to 
+hide that is what we wanted so when it is flying? How do we do that? Yeah we have a block 
+when I receive flying so the eagle has been telling right I am flying so when it has been flying
+the crying snake sprite can be hidden so this is achieved here and the smiling snake has to be 
+shown if it has been flying means when the eagle has been flying in the sky, the smiling 
+snake is not aware of it so it is happy so the smiling snake has to be sure so let me say when I 
+receive flying when the smiling! The message flying is sent the smiling snake has to be 
+shown so let me say show from the loops. So when it starts flying it sends out a message that 
+I am flying so in that stage the snake is unaware of the eagle approaching it has to smile that 
+is why the smiling snake sprite we had set it has, when I receive flying message it should be 
+shown, I have to be shown and for the crying snake it is an opposite, if it is flying then no 
+need for the snake to cry, if it is flying in the air so this has to be hidden so we have set it here
+ok then ahh when the snake touches the eagle sorry I am sorry! When the eagle touches the 
+snake the snake has to start crying so this snake has to disappear the smiling snake has to 
+disappear and the crying snake has to appear so when it touches, how will these two come to 
+know? If it is a living object they would know that someone is being touched, disturbing us 
+all these they know they would react but here we have some images that’s it we are making 
+the image behave as it is a real object so. how would we get things done here? So for that 
+again same like how flying message have been sent we need to sent out  another broadcast 
+message if this particular thing is touching this thing, so for that let me see touch is under 
+sensing yeah! This colour is touching this colour something like that we have an option 
+maybe we can use it if this colour is touching this colour let us use that, if some condition 
+then that block we will use it now, we will use it so if some condition, the condition is if the 
+colour is touching this colour so the colour you can change it, how would you change it is? 
+You click on it and just check which colour you just wanted to appear, just click there you 
+would get that colour see this colour is this the brown appeared here and now this colour 
+should be this one ok green appeared here ok let us bring this, I am fitting here ok, if this 
+colour is, if the brown colour touches this colour then it has to send out another message so 
+for that again we are using the broadcast option but this time the message is not it’s flying, 
+you have to send a new message so may be for the situation I will use ‘trapped’, so if it is 
+sends out a message ‘trapped’ this snake will have to disappear, and the crying snake has to 
+appear so I will configure it here, the smiling snake have to say when I receive ‘trapped’ it 
+has to be hidden, so hide ok so we have configured the smiling snake let us go ahead with the
+crying snake when I receive trapped its trapped this has to be shown so the crying, snake will 
+cry but still will the eagle leave the snake? No, it will eat the snake, so let us wait for some 
+time till the eagle eats the snake, so let us give a wait, wait for one second, one second is 
+lesser for a living eagle but this is a computer image for this one second is too much so one 
+second would be enough it would eaten the snake so after one second this has eaten the snake
+the snake that would appear should disappear so again I will give a hide option, a hide option 
+alright so hmmm I hope you are clear here if the crying snake has got means when the 
+message trapped has been sent that is when it will be sent? When the particular colour, this 
+portion of the eagle touches this portion, that is the eagle has touch with the snake so when it 
+has touched the trapped message will be sent and because of the trapped message the smiling 
+snake would disappear and the crying snake would appear, which makes the user fevered due 
+to the eagle now caught the snake the snake is crying. So the crying snake would appear even
+though the snake cries eagle would not leave it, it would definitely eat that snake so this is 
+why we are given a wait loop, it cries but still the eagle is merciless it eats the snake and after
+it has been eaten the snake should not appear here that’s why we are hiding it. So now here 
+after it has been trapped the eagle will be happy that it has got a food so we need a sound 
+effect there right? So let us have a sound effect, sounds you have an option here let’s see if 
+we have something from the sound library something you can record it with your microphone
+or if you have a sound file you can upload it as well these are the options available here. See, 
+from the library animal I don’t have a eagle sound so that is why I had taken an eagle sound 
+that I will be using it, I have a sound file basically I will be using it, you can get the eagle 
+sound from the internet as well you can use it so eagle.mp3 this is my sound file let me open 
+it and show you how the sound is, I will play, this is how the sound of the eagle will be hence 
+it has caught the prey so that we are going to use it here so we have loaded the sound into our 
+project ok once it has sent out a message that it has trapped it, it has to happily give the sound
+that it has got the food so we have to insert a sound, play sound eagle! Yeah you have an 
+option let us use it here, it will play this sound. So after it has played this sound the crying 
+snake would appear and it will eat the snake and once the snake has been eaten that snake 
+would disappear also the eagle would come back to its original position that is what we 
+wanted to be done, so we have to wait for it to be eaten so once it is eat it has eaten the snake 
+it will rest for some time and then it will fly back right? So let us give the wait loop but 
+slightly more time than the snake, snake had got one second waiting time, that is one second 
+it has eaten and one second let it take rest let me say wait for totally two seconds so there is a 
+wait loop and once the wait is over it will again fly back so all these I have in pieces so this 
+particular thing is nothing but I will create a blocks for it so I will say fly, fly is a block so 
+this is my fly block and this I could say as target, target ok! So this would be my target block 
+and or maybe I could club these two because if it is targeting it will come near the snake and 
+it will stop that will never happens right? It will bounce opens the snake and it will eat it so I 
+can club these two blocks as well so this is my target this is the flying part and this is the 
+targeting of the snake part sp these are the two parts so now let me use these blocks initially 
+the eagle has to been shown let me say show then it starts flying then it aims at the target then
+once it has eaten the snake it is satisfied it will go away so that I am denoting by height that 
+is, it has gone away, it has gone out of the frame so it has gone somewhere so I am hiding it 
+so basically this is what I am trying to do this is the portion of smiling snake and the crying 
+snake, ok let me check this how it works? Let me double click on this particular block which 
+instructs it, wow! That was so good let me show once again, is the flying too fast? Do you 
+feel that some more delay could be better so that you can feel that it is actually flying, it looks
+like the eagle is running! So maybe we can insert a delay, this is the computerised image so 
+obviously the speed of the computer is much higher than what! Other living beings are so 
+definitely it would look as it is running so let me insert a delay so that appears as it is flying, 
+one second is too much delay so let me use the delay loop but ok, let me say wait for point 
+one second, that is better I guess zero point one seconds let me wait and now let me again run
+this, let me double click wow! Now you could see that the eagle was flying just observe one 
+second the eagle is flying it has touched the snake, the snake cry, still it ate the snake and then
+once it is satisfied the eagle has also gone. See it doesn’t wait for me to given description, 
+computers are so fast ok still we will try once again eagle is flying got the snake, snake 
+crying, eaten eagle is flown fine! Wow this is so nice you can try in more creative versions of 
+this as well you can do a lot of things with scratch please do explore a lot this would improve 
+your logical reasoning ability and thanks for watching this screen cast have a nice day! That 
+was again a lot of fun! Did you see how you could pick different pictures and make eagle 
+catch a snake and then go forward right? So you can actually animate, have your own 
+animations, put people over there and then create a story out of it, any more questions in 
+mind? Sir any one can create animations? Absolutely yup, you can create a animation made a 
+video out of it and put it on you tube as well, you should probably try doing that, you have 
+any other challenging exercise in mind? How about this? A bus comes, there are four people 
+are standing, a bus comes picks one person and goes away and same bus comes picks the 
+second person and then goes away third person goes away, fourth person goes away that’s it. 
+Each time number of people should reduced, should reduced yeah reduce by one ok? Try 
+doing that and a good challenge would be make a ball bounce in that rectangle region where 
+you animated, you create a ball which is an object and that ball should bounce around and 
+stuff like that so you see there are actually many games written just using scratch, very 
+beautiful games in fact they are addictive you can probably create snakes game, heard of 
+snakes game yeah! Use your arrow keys and the snake moves the things like that a little 
+complicated but it is not so difficult, you probably should try doing it, there are a whole lot of
+live examples on scratch website itself where in you will be getting code on how exactly a 
+game works and you can see through the code and understand how you can create a variant of
+them.                                                                                                      
+SOLUTION TO LOOPING PROBLEM
+So I hope you people tried doing what I asked you to do, Right? If you dint? Don’t worry we 
+are there to help you. How do we go about this? Here we are going to help you out with 
+understanding of this really really involved computer science concept. The question that I 
+asked in a previous video clip is not a very straight forward one, if you are not into 
+programming already you should have found it very difficult to even understand what I was 
+asking you to do. So don’t worry listen to me careful, let’s go step by step.
+Firstly let me teach you what is this data thing here, click on it you will get these two things, 
+click on make a variable and you will get, you will ask you will be asked to type in a variable 
+name, let me now type a variable name as a num click on ok. So you see a num gets created 
+here it is assigned zero and also num sits here, pull it and keep it here double click on it you 
+will gets it value zero. So num is zero so I can set num to some number put this here, set num 
+to ten when you do this and then execute this number is now ten you see its updated to ten 
+here and when you go here and double click on this it will say ten, it will say ten correct? 
+Now when you say change num by one and execute that num initially was set to ten and then 
+you changed it by one which means by one means what you incremented ten by one and you 
+get eleven double click on num you will see eleven correct? Let us double click on this once 
+again this is just like these are all blocks of instruction you are giving right? Num is equal to 
+eleven why don’t you double click on this? I double clicked go back you will see twelve here 
+come back double click it becomes thirteen, double click fourteen, double click fifteen so 
+what do I do? Look at this I will take go to this control and take a repeat loop and put this 
+here can you guess what’s going to happen now? I repeat num was fifteen and I am going to 
+change num by one ten times when I double click on this you see the computer is going to 
+very quickly execute this piece of instruction ten times no no that is very certain thing we 
+want to pause the video and think what’s happening here? One even parallelly try doing what 
+exactly I am trying to do here right? It’s not so easy same time not very difficult it takes times
+to this to sink it, I double click on this and you will see the magic happen, I double click num 
+is fifteen now I am going to double click this, double clicking yeah I did it now immediately 
+this became twenty five, why? That’s because num got incremented by one ten times, if I 
+make this fifty then num gets incremented by one fifty times and so many double click on 
+this I mean to double click by the way but if I double on this num will get incremented by 
+fifty which means this becomes seventy five let me see double click boom! This became 
+seventy five now what is more beautiful about this, these thing happen really really fast how 
+fast? I put thousand here and you will see how quickly this becomes incremented by 
+thousand, thousand num will get incremented one by one thousand times and hence this 
+should become yes! One zero seven five now ready lets double click, double clicked quickly 
+this became one zero seven five that why computers are very fascinating and programming a 
+computer is more fascinating because the power is in your hands to make it compute, it 
+computes really really fast, very very fast correct? Ok. So now let me do something I will set 
+the number to zero ok? This is the part of this code now let me remove this, this doesn’t 
+matter, double clicking on it as I told you will show you the existing numbers value but that’s 
+there here itself so we don’t need to worry let me keep it here so I can see it properly and let 
+me remove this, this is not useful now what will happen if I press this number will be 
+assigned zero and then number will increment one at a time and will become thousand. These
+things will happen so fast that you will not even notice what’s happening. Double click here 
+you see it became thousand correct? Now let us go slowly and see what is happening here? 
+You will be surprised that this is so easy to do, go to control go to wait and tog in wait here 
+now you all know what is going to happen. Right? Set number to zero change number by one 
+wait for one second so you can peacefully see how these changes one by one with the 
+seconds pause in between, all of you I am sure you would have guessed what this is going to 
+do. Let us double click and see what exactly it does, double click! And here its starts one two 
+three four five six seven and so on, you see this it’s now incrementing it will go on like that 
+till one thousand I don’t have so much time so let me just stop this come back instead of 
+thousand let we make this just twenty and see what happens? So double click on this once 
+again one two three you see this will go on till twenty, four five six seven eight nine ten you 
+see as you can note you are basically creating a counter which changed one number every 
+second so basically this takes twenty seconds. Correct? Twenty!! There you are hip hip 
+hurray!! So we wrote a first neat code correct so this is what loop does, it helps you it gives 
+you the power to repeat something repeatedly for a designated amount of time. Please note 
+one thing that you should do and another thing you shouldn’t do, one thing you must do is 
+you must pause and then write your own codes try to play around not just do what exactly we
+did but do a lot more than what we are showing, play around and use all these things and try 
+to understand what is what? You can always click on, let’s say u dint understand what is wait 
+for one second right click on it you will get a help click on it and there you are, you get all the
+details about that particular command wait specified number of seconds and continuous with 
+next block with the example here correct? Let’s close this so you should try doing this that is 
+what you are supposed to do and what you are not supposed to do is simply stick to what we 
+are explaining you should not be doing that. We are using example to explain things so that 
+we will motivate you to explore more stuff so please go ahead and explore a lot more things 
+here before going any further only then can you understand programming really well so let’s 
+get back to our original question. I was just going to teach you something that going to come 
+very handy in solving this problem, what problem? The cat is trying to go ahead and come 
+back and then keep going ahead and keeps coming back and then  it incrementally keeps 
+moving like this and it get’s braver brave with time. Right? How do we programme that using
+a repeat until loop? How do we avoid writing a huge code for it? Remember? It was going 
+twenty steps at a time twenty first forty next and then back sixty next and then back so let us 
+try doing that using repeat until the repeat lopper ok so I will take this repeat lopper and then 
+put here and ten times I will make him go ahead, how do I do that? Motion move twenty 
+steps, instead of twenty steps I will say twenty steps times one, twenty steps times two twenty
+steps times three, how do I do that? I mean that sounds little complicated, let me figure this 
+out on scratch. How do I do this? Let me go to data, create a variable called steps, steps is the 
+number of steps that the cat takes and yeah there you are! Steps gets created and initially 
+steps will be twenty and then I am gonna change steps by increments of twenty which means 
+what does this do? See what this does. We discuss this when you double click on this you see 
+this segment of code now is different, this segment of code is different when you double click
+on this only this gets executed you all know that by this time correct? So when I click on this 
+initially steps gets assigned by twenty ok? Double click steps is assigned by twenty and steps 
+is changed by another twenty which is forty ok? And next if I again continue to say change 
+steps by another twenty it becomes incremented by another twenty again if I say set oh I am 
+sorry not set delete this change steps by twenty it will again get incremented by twenty ah! 
+Well once again I need to gave control wait for a second between stop so that I can see what’s
+happening? Correct? So what will this do? All of you? It’s only obvious once I click on this 
+steps get to set to twenty go back see in one second it becomes forty one second sixty, one 
+second eighty and then stops that’s precisely what I want this code to execute and give me a 
+output like this correct? This is what I expected. And that’s precisely what it doing that right 
+now, correct? Now what if I put this in a repeat loop, what happens? Ten times this entire 
+things get’s executed, what get executed? That sounds very complex you see let me just keep 
+it aside this is not using, we are not using this all though we will soon come to this cat go 
+back ok. Let me execute this. What will this give me? Repeat ten times this entire thing, 
+double click let me see twenty forty sixty eight, twenty forty sixty eighty is not visible 
+because I am not putting a waits, wait here let me put that here forty sixty eighty, twenty forty
+sixty eighty it keeps doing this ten times correct? As simple as that but then what if I want 
+this up to let’s say thousand? How do I do this? I initially set steps by twenty and wait for a 
+second and change steps by twenty and then let me remove this things and put a wait here but
+then I will not set this to twenty here itself see what I am doing slowly and patiently I will set 
+steps to twenty but then repeat this ten times so that it keeps incrementing twenty at a time 
+what does this do? Let’s see double click on this you will see twenty forty sixty eighty 
+hundred and so on hundred and twenty hundred and forty hundred and sixty and one eighty 
+and finally two hundred correct? Two twenty oh its goes on its ten times right? So its Last 
+one is actually two twenty we start with twenty so its two twenty, figure this out look at this 
+code and see what it does it simply starts from twenty and ends in two twenty, what is the 
+motive? What exactly am I doing? I have to move this cat incrementally right? Of what use of
+all these things? Now we are going to use this, we are going to use this and make this cat 
+move the way we want her to move let’s go back to this repeat and keep it here and what do I 
+want the cat to do? I want basically a variable sets steps to twenty to come here sets steps to 
+twenty and then what? I want her to move twenty steps ahead ok, instead of twenty I want to 
+put steps here, what do I mean by steps here? I will take steps here and put this here please 
+not what I am doing, is a need thing in scratch, nice facility in scratch. You set steps to twenty
+and you move twenty steps, first just execute this, lets see what happens ten times click she 
+keeps moving ahead, that’s what is expected with the pause of one second what happens 
+now? Pull her back, what happens now? Double click, she moves ten steps, ten steps, ten 
+steps steps is twenty move by twenty steps and then wait for a second ok? Keep doing this I 
+can consider doing the following keep this here and then keep this here so that you set steps 
+to twenty and then move twenty steps and then wait for a second move twenty steps correct? 
+I was assigning steps to twenty here every time that’s not required initially if you assign that 
+should be enough, double click ahead twenty twenty twenty twenty twenty so on ten times 
+let’s watch her walk twenty twenty and then she stops of ten moments correct? Now what do 
+we want? We want her actually go by twenty steps and come back by twenty steps you see so 
+now what I should do? Is I should go back motion move twenty steps steps ahead and move 
+back a few steps. Please note the steps is a built in thing here I mean By that I mean steps 
+here means the cat should move so many steps we are also calling the variable steps here 
+don’t be confused about it right? These two are actually different things here ok. So now she 
+must move back by twenty steps how do we do that? Go to operators there is very nice 
+facility here what is that? I can do multiplications of two things correct? I want to multiply 
+minus one with data and take steps put that here I can multiply steps by minus one what do I 
+mean by that? If steps is twenty steps times minus one is minus twenty so I make her move 
+minus twenty steps so twenty steps ahead and twenty steps behind when I click on this, let me
+remove all these things these are not required we delete them ok, when I double click on this 
+you see what happens, she keeps going back and coming forward, going back and coming 
+forward you can put a second pause here to make her go ahead come back go ahead come 
+back she will do this ten times come back, up come back twice up come back four five six 
+and so on correct? Ok. So she is doing! we are almost there but what exactly , you remember 
+what exactly we wanted her to do? We wanted her to go ahead twenty steps, come back 
+twenty steps go ahead forty steps next. So so so! What do I do? Come back to data think I 
+should use change steps by twenty ok, people this is where the place where things are getting 
+slightly complicated and I tell you the reasons why it’s getting complicated ok it’s because as 
+I am going slightly fast off course it is the lecture videos but you have to liberty to pause the 
+video and think about what I am saying, if you don’t do that I will be going on fast and fast 
+right? So based on your taste and paste you may want to pause the video and then try yourself
+how exactly you can make this cat move ahead and come back an incrementally keep doing 
+this so what is this go to set steps by twenty repeat this ten times move steps number of steps 
+that steps is actually twenty so move twenty steps, steps is a same twenty, so move twenty 
+steps  wait for a second and move twenty steps in reverse direction minus twenty steps pause 
+and then change steps by twenty means, steps is no more twenty it becomes forty here and 
+then come back and start from here, you see I don’t again assign steps twenty here I come 
+back here and then I continue. What is steps now? Is actually forty. So wait for a second you 
+will move for forty wait for a second and then you move back by forty and so on and you will
+be surprise to see that this is precisely what we wanted our cat to behave like. Double click 
+twenty ahead twenty back, forty ahead forty back, sixty ahead sixty back, eighty ahead eighty
+back, hundred ahead hundred back one twenty minus one twenty one forty minus one forty 
+one sixty minus one sixty one eighty minus one eighty two hundred minus two hundred now 
+that must tiring right? But the cat doesn’t get tired simply because it’s a computer programme
+you can make her move the way you want her to move ok? Now can you play around these 
+numbers here and make her move really fast and many numbers of times I leave it to you.      
+Why To Learn Programming?
+Now a day you have applications apps for everything. You have websites for everything, you
+name it you have it, so why do you think we have to learn something about that because now
+a day we have for all the utility you get something, you have applications. Again a good
+question. So you see the fact that there are so many buildings isn’t a reason why you cannot
+have a new building? Right! The fact that you have so many buildings doesn’t stop you from
+understanding how buildings are made. May be you may want to go one floor up of an
+existing building. Right! So if you understand how one can programme? There are a whole
+lot of situations where you will feel something is missing here and I can go on and do add on
+to it, right? That can happen if you know the background programming that they have used.
+See it’s not an absolute must for everyone to know programming. But you to have an edge in
+your respective subject programming is a must. Be it you said you are from mathematics
+background, physics background, economics, assume you are doing business a small scale
+business still knowing how to write a piece of code and get things done comes a long way in
+helping you to have that extra edge over others. Right! Forget others to do something that is
+out  of  the  box  and  out  of  the  knob,  you  need  to  understand  how  to  programming,
+programming is one skill that helps you get things done really really fast, I am doing to
+illustrate this very soon with you people by using test cases, where you will realise that
+without programming you cannot imagine getting o things done.            
+What Is Programming?
+So I will give you a quick illustration on what is programming? Ok. I am going to programme
+you people right now, ok. Look at this, I am going to show you my hand, if I show you in this
+hand, if I say this it means coffee, if I say this two it means tea ,this is water. Can we play this
+game now? Yeah yeah. Coffee! Water, Tea, water, coffee, tea, water. Ok.  Let me add a two
+more items to it. Coffee, tea, water, juice, cookies. Can you remember? Yeah. Tea, tea, water,
+juice, cookies, Water, cookies, juice, tea, he is copying. Ah! Juice, cookies, tea, ok. So let’s
+add a small variant to this. You see what happened? I told them to make these assignments for
+these symbols and they did the assignment. As I was showing them this numbers they could
+easily say what they represent. How about this? I will show the item using these fingers,
+whatever coffee, tea, water, juice, cookie and in this hand I will show the number of coffee
+that I want, number of coffee cups basically. If I say this, it means three cups of coffee, If I do
+this, quick! Five cookies perfect! Shall we go ahead? Three cops of water, three cups of
+water. I think he has not quoted right, let him do it, you remain silent ok? Oye! I can’t see
+from this side. Two cups of juice, yeah! Two cups of juice where you took some time for me
+to figure out ok! What is this? Four cups of tea, Very nice. One cup of tea, one cup of coffee,
+four cups of juice, two cups of!!Two cookies, two cookies and so on. So what I just now did
+is like I programmed their minds to follow a particular code line of thought and then they
+could figure out what I mean by this. What I meant by this and things like that. So whenever I
+show this to sowjanya it means help me with two cups of tea, I am sorry four cups of tea. If I
+say this it means help me with two cookies. Correct! So on and so for so symbolically we can
+represent an item with something and I just programmed their minds to follow a particular
+rule. Right? Ok. Probably you wondering what has this to do with the programming? I am
+just trying to get your minds started on what one means by giving instructions. Programming
+is all about that.              

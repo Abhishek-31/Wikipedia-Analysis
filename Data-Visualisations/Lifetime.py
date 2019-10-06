@@ -54,7 +54,7 @@ for key,val in d.items():
     yaxis.append(d[_]["days"])
 print(xaxis)
 print(yaxis)
-plt.plot(xaxis,yaxis,label='Week1')
+plt.plot(xaxis,yaxis,label='JOCWiki1')
 d={}
 
 for _ in range(1,13):
@@ -109,7 +109,7 @@ for key,val in d.items():
     yaxis2.append(d[_]["days"])
 print(xaxis2)
 print(yaxis2)
-plt.plot(xaxis2,yaxis2,label='Week2')
+plt.plot(xaxis2,yaxis2,'b--.',label='JOCWiki2')
 plt.xlabel("Article")
 plt.ylabel("Number of days (Lifetime)")
 plt.legend()
