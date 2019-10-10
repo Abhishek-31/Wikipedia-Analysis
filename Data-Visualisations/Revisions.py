@@ -69,6 +69,6 @@ plt.plot(xaxis2,yaxis2,'b--.',label='JOCWiki2')
 plt.xlabel("Article")
 plt.ylabel("Number of Revisions")
 plt.legend()
-plt.savefig("Revisions.png")
+plt.savefig("Revisions.png",dpi=800)
 plt.show()
 

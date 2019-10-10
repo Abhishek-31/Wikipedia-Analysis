@@ -71,6 +71,6 @@ plt.plot(xaxis2,yaxis2,'b--.',label='JOCWiki2')
 plt.xlabel("Article")
 plt.ylabel("Number of text bytes")
 plt.legend()
-plt.savefig("Text Bytes.png")
+plt.savefig("Text Bytes.png",dpi=800)
 plt.show()
 
